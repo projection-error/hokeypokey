@@ -3,7 +3,21 @@
 # Motivation
 I have invented a new chess opening- it's called the "Hokey Pokey" opening. 
 
-I start the game by moving a knight, then moving it back, then moving it back... etc. until a threat is made by the enemy. Once the threat is posed, I convert to my normal play strength (~1700-1800 bullet/blitz). Against engines/good players, this is a horrible strategy for me to take because I'm essentially wasting time. However, I intend to explore the following interesting properties it presents:
+https://user-images.githubusercontent.com/84434778/168507658-2098ced7-569d-4d34-bf2b-4085fd2a4a83.mp4
+
+# How it Works
+```
+while(!threat):
+  threat = isThereAThreat()
+  if Nf3 is True:
+    Ng1
+  else:
+    Nf3
+   
+```
+
+
+Once the threat is posed, I convert to my normal play strength (~1700-1800 bullet/blitz). Against engines/good players, this is a horrible strategy for me to take because I'm essentially wasting time. However, I intend to explore the following interesting properties it presents:
 - Non-Committal Position: Since I do not make a committal move until far into the game, there is opportunity for the positions to reach very unique set-ups. These positions could prove advantageous to me.
 - Lowered Guard: An opponent may play with less focus or over-extend. Since I convert to playing normally once a threat is posed, I may be able to surprise them.
 - Time Advantage: Although marginal, I will achieve a slight time advantage over my opponent due to my fast pre-moves plus whatever time they spend raising their eyebrows. In some blitz games, this may prove decisive.
@@ -30,5 +44,5 @@ I start the game by moving a knight, then moving it back, then moving it back...
 
 # Notes
 ## Lichess Data
-- Lichess data is available at the link: https://lichess.org/games/export/<UserNameHere>?since=1525132800000
+- Lichess data is available at the link: >https://lichess.org/games/export/UserNameHere?since=1525132800000
 - Chess games are stored in a PGN file. This stands for "Portable Game Notation". As I make analysis tools, I will use this as the base data structure to parse/analyze.
