@@ -40,7 +40,10 @@ Once the threat is posed, I convert to my normal play strength (~1700-1800 bulle
 
 
 # Progress
-5/15/22: 10 games played. 5W/5L/1217 (provisional) rating
+- 5/15/22: 
+  - 10 games played. 5W/5L, 1217 (provisional) rating
+  - First draw (Game 13)
+  - 20 games played. 12W/6L/2D, 1383 rating
 
 # Notes
 ## Lichess Data
