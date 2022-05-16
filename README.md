@@ -32,7 +32,7 @@ Once the threat is posed, I convert to my normal play strength (~1700-1800 bulle
 - **Prediction 1**: Games until an opponent counter-Hokey-Pokies into a draw: Within first 300 games.
   - **Result**: None yet (10 games)
 - **Prediction 2**: Highest rated opponent defeated within first 300 games: 1500
-  - **Result**: 1163 (10 of 300 games)
+  - **Result**: 1394 (10 of 300 games)
 - **Prediction 3**: Lowest rated opponent loss within first 300 games: 900
   - **Result**: 1096 (10 of 300 games)
 - **Prediction 4**: A deterministic loss sequence exists.
@@ -40,6 +40,11 @@ Once the threat is posed, I convert to my normal play strength (~1700-1800 bulle
 
 
 # Progress
+- Records (Last Update: 5/15/22):
+  - Max Rating: 1383
+  - Min Rating: 1289
+  - Best Opponent Rating for a Victory: 1394
+  - Worst Opponent Rating for a Loss: 1096
 - 5/15/22: 
   - 10 games played. 5W/5L, 1217 (provisional) rating
   - First draw (Game 13)
