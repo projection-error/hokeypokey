@@ -27,3 +27,8 @@ I start the game by moving a knight, then moving it back, then moving it back...
 
 # Progress
 5/15/22: 10 games played. 5W/5L/1217 (provisional) rating
+
+# Notes
+## Lichess Data
+- Lichess data is available at the link: https://lichess.org/games/export/<UserNameHere>?since=1525132800000
+- Chess games are stored in a PGN file. This stands for "Portable Game Notation". As I make analysis tools, I will use this as the base data structure to parse/analyze.
