@@ -8,11 +8,11 @@ https://user-images.githubusercontent.com/84434778/168507658-2098ced7-569d-4d34-
 # How it Works
 ```
 while(!threat):
-  threat = isThereAThreat()
   if Nf3 is True:
     Ng1
   else:
     Nf3
+  threat = isThereAThreat()
    
 ```
 
@@ -30,11 +30,11 @@ Once the threat is posed, I convert to my normal play strength (~1700-1800 bulle
 
 # Predictions
 - **Prediction 1**: Games until an opponent counter-Hokey-Pokies into a draw: Within first 300 games.
-  - **Result**: None yet (10 games)
+  - **Result**: None yet (20 games)
 - **Prediction 2**: Highest rated opponent defeated within first 300 games: 1500
-  - **Result**: 1394 (10 of 300 games)
+  - **Result**: 1394 (20 of 300 games)
 - **Prediction 3**: Lowest rated opponent loss within first 300 games: 900
-  - **Result**: 1096 (10 of 300 games)
+  - **Result**: 1096 (20 of 300 games)
 - **Prediction 4**: A deterministic loss sequence exists.
   - **Result**: None encountered yet.
 
@@ -46,7 +46,6 @@ Once the threat is posed, I convert to my normal play strength (~1700-1800 bulle
   - Best Opponent Rating for a Victory: 1394
   - Worst Opponent Rating for a Loss: 1096
 - 5/15/22: 
-  - 10 games played. 5W/5L, 1217 (provisional) rating
   - First draw (Game 13)
   - 20 games played. 12W/6L/2D, 1383 rating
 
