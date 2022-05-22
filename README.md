@@ -51,18 +51,24 @@ Once the threat is posed, I convert to my normal play strength (~1700-1800 bulle
   - <a href=https://lichess.org/RaDCMY6C>**Longest Game**: 131 (Win)</a>
   - <a href=https://lichess.org/kPS2hXrY>**Highest Rated Win**: 2066.0</a>
   - <a href=https://lichess.org/GP0UDQnc>**Lowest Rated Loss**: 1018.0</a>
-- **Poke Distribution**
-- ![PokeDistribution](https://user-images.githubusercontent.com/84434778/169716945-951ebb04-b660-44b7-b129-2fe49a3c5723.png)
 
 - **Opponent Rating vs. My Rating**
-- ![RatingJourney](https://user-images.githubusercontent.com/84434778/169716949-64eb0d7c-e372-434f-9d42-291a46352c67.png)
+
+![RatingJourney](https://user-images.githubusercontent.com/84434778/169716949-64eb0d7c-e372-434f-9d42-291a46352c67.png)
 
 - **Cumulative WLD (+1,-1,+0.5)**
-- ![WLD](https://user-images.githubusercontent.com/84434778/169716952-8f3b0c3b-d173-4678-a8e0-40549ac36cdf.png)
+
+![WLD](https://user-images.githubusercontent.com/84434778/169716952-8f3b0c3b-d173-4678-a8e0-40549ac36cdf.png)
 
 - **Relations with No Correlation**
-![ElovGameLength](https://user-images.githubusercontent.com/84434778/169716968-b84ddcec-58ce-43b6-af2f-f89a0880fd5a.png)![PokesvsElo](https://user-images.githubusercontent.com/84434778/169716975-71979702-1142-4811-818d-a22e22ee54a4.png)![PokesvsGameLength](https://user-images.githubusercontent.com/84434778/169716976-3f664fb1-2c3b-44da-9dd5-78c382ae5b6f.png)
 
+![ElovGameLength](https://user-images.githubusercontent.com/84434778/169716968-b84ddcec-58ce-43b6-af2f-f89a0880fd5a.png)
+![PokesvsElo](https://user-images.githubusercontent.com/84434778/169716975-71979702-1142-4811-818d-a22e22ee54a4.png)
+![PokesvsGameLength](https://user-images.githubusercontent.com/84434778/169716976-3f664fb1-2c3b-44da-9dd5-78c382ae5b6f.png)
+
+- **Poke Distribution**
+
+![PokeDistribution](https://user-images.githubusercontent.com/84434778/169716945-951ebb04-b660-44b7-b129-2fe49a3c5723.png)
 
 
 # Notes
