@@ -1,5 +1,4 @@
-# Newest Development in Chess Theory - 
-# The Hokey Pokey Opening
+# Newest Development in Chess Theory - The Hokey Pokey Opening
 ## Follow progress on Lichess: [HokeyPokeyHero](https://lichess.org/@/HokeyPokeyHero)
 # Motivation
 I have invented a new chess opening- it's called the "Hokey Pokey" opening. 
