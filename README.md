@@ -1,7 +1,7 @@
 # Newest Development in Chess Theory - The Hokey Pokey Opening
 ## Follow progress on Lichess: [HokeyPokeyHero](https://lichess.org/@/HokeyPokeyHero)
 # Motivation
-I have invented a new chess opening- it's called the "Hokey Pokey" opening. 
+Introducing a newly invented chess opening - it's called the "Hokey Pokey". 
 
 https://user-images.githubusercontent.com/84434778/168507658-2098ced7-569d-4d34-bf2b-4085fd2a4a83.mp4
 
@@ -15,12 +15,13 @@ while(!threat):
   threat = isThereAThreat()
    
 ```
-<p align="center">Not 100% right - Na3,Nc3,and Nh3 are also allowed. The goal is to avoid moving until risk is near-existential.</p>
+<p align="center">Not 100% right - Na3,Nc3,and Nh3 are also allowed. The goal is to keep moving the knight until risk is near-existential.</p>
 
-Once the threat is posed, I convert to my normal play strength (~1700-1800 bullet/blitz). Against engines/good players, this is a horrible strategy for me to take because I'm essentially wasting time. However, I intend to explore the following interesting properties it presents:
-- Non-Committal Position: Since I do not make a committal move until far into the game, there is opportunity for the positions to reach very unique set-ups. These positions could prove advantageous to me.
+Once a threat is posed, the strategy is abandoned. Against engines/good players, this is a horrible strategy to take because the opponent gets free moves. However, I intend to explore the following interesting properties this opening presents:
+- Non-Committal Position: Since I do not make a committal move until far into the game, there is opportunity for the positions to reach very unique set-ups. Frequent play of this opening leads to a knowledge disparity that might enable an edge.
 - Lowered Guard: An opponent may play with less focus or over-extend. Since I convert to playing normally once a threat is posed, I may be able to surprise them.
-- Time Advantage: Although marginal, I will achieve a slight time advantage over my opponent due to my fast pre-moves plus whatever time they spend raising their eyebrows. In some blitz games, this may prove decisive.
+- Time Advantage: Although marginal, a slight time advantage over my opponent due to my fast pre-moves plus whatever time they spend raising their eyebrows (see below). In some blitz games, this may prove decisive.
+- Fun: Because this opening is kind of hokey (literally), it leads to very unique positions that *may* enable advantages.
 <p align="center"><img width=220 height=270 src=https://user-images.githubusercontent.com/84434778/169719125-44f0e78d-00a1-4b00-ad83-adf8d38ecbe7.png><br>
   Example - Opponent is in significant time trouble, regardless of the material balance in the position</p>
 
