@@ -51,11 +51,11 @@ Once a threat is posed, the strategy is abandoned. Against engines/good players,
 - **Records** (Last Update: 05/22/22)
   - **Max Rating**: 1514 (51 games)
   - **Min Rating**: 1040 (51 games)
-  - <a href=https://lichess.org/a3NNJvc3>**Max Poke Record (Resulting in a Win)**: 18</a>
-  - <a href=https://lichess.org/uJ4TD3r4>**Shortest Game**: 0 (Win)</a>
-  - <a href=https://lichess.org/RaDCMY6C>**Longest Game**: 131 (Win)</a>
-  - <a href=https://lichess.org/kPS2hXrY>**Highest Rated Win**: 2066.0</a>
-  - <a href=https://lichess.org/GP0UDQnc>**Lowest Rated Loss**: 1018.0</a>
+  - <a target="_blank" href=https://lichess.org/a3NNJvc3>**Max Poke Record (Resulting in a Win)**: 18</a>
+  - <a target="_blank" href=https://lichess.org/uJ4TD3r4>**Shortest Game**: 0 (Win)</a>
+  - <a target="_blank" href=https://lichess.org/RaDCMY6C>**Longest Game**: 131 (Win)</a>
+  - <a target="_blank" href=https://lichess.org/kPS2hXrY>**Highest Rated Win**: 2066.0</a>
+  - <a target="_blank" href=https://lichess.org/GP0UDQnc>**Lowest Rated Loss**: 1018.0</a>
 
 - **Opponent Rating vs. My Rating**
 
