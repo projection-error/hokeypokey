@@ -30,26 +30,35 @@ Once the threat is posed, I convert to my normal play strength (~1700-1800 bulle
 
 # Predictions
 - **Prediction 1**: Games until an opponent counter-Hokey-Pokies into a draw: Within first 300 games.
-  - **Result**: None yet (20 games)
+  - **Result**: None yet (51 of 300)
+  - **Last Updated**: 05/21/22
 - **Prediction 2**: Highest rated opponent defeated within first 300 games: 1500
-  - **Result**: 1394 (20 of 300 games)
+  - **Result**: 2066 (51 of 300)
+  - **Last Updated**: 05/21/22
 - **Prediction 3**: Lowest rated opponent loss within first 300 games: 900
-  - **Result**: 1096 (20 of 300 games)
+  - **Result**: 1018 (51 of 300)
+  - **Last Updated**: 05/21/22
 - **Prediction 4**: A deterministic loss sequence exists.
   - **Result**: None encountered yet.
+  - **Last Updated**: 05/21/22
 
 
 # Progress
-- Records (Last Update: 5/15/22):
-  - Max Rating: 1383
-  - Min Rating: 1289
-  - Best Opponent Rating for a Victory: 1394
-  - Worst Opponent Rating for a Loss: 1096
-- 5/15/22: 
-  - First draw (Game 13)
-  - 20 games played. 12W/6L/2D, 1383 rating
+- **Records** (Last Update: 05/21/22)
+  - **Max Rating**: 1514 (51 games)
+  - **Min Rating**: 1040 (51 games)
+  - <a href=https://lichess.org/uJ4TD3r4>**Shortest Game**: 0 (Win)</a>
+  - <a href=https://lichess.org/RaDCMY6C>**Longest Game**: 131 (Win)</a>
+  - <a href=https://lichess.org/kPS2hXrY>**Highest Rated Win**: 2066.0</a>
+  - <a href=https://lichess.org/GP0UDQnc>**Lowest Rated Loss**: 1018.0</a>
+- **Elo Rating vs. Game**
+- 
+- **Opponent Rating vs. Game Length**
+- 
+- **Opponent Rating vs. My Rating**
+- 
+- **Opponent Rating vs. My Rating**
 
 # Notes
 ## Lichess Data
-- Lichess data is available at the link: >https://lichess.org/games/export/UserNameHere?since=1525132800000
 - Chess games are stored in a PGN file. This stands for "Portable Game Notation". As I make analysis tools, I will use this as the base data structure to parse/analyze.
