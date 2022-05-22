@@ -44,9 +44,10 @@ Once the threat is posed, I convert to my normal play strength (~1700-1800 bulle
 
 
 # Progress
-- **Records** (Last Update: 05/21/22)
+- **Records** (Last Update: 05/22/22)
   - **Max Rating**: 1514 (51 games)
   - **Min Rating**: 1040 (51 games)
+  - <a href=https://lichess.org/a3NNJvc3>**Max Poke Record**: 18</a>
   - <a href=https://lichess.org/uJ4TD3r4>**Shortest Game**: 0 (Win)</a>
   - <a href=https://lichess.org/RaDCMY6C>**Longest Game**: 131 (Win)</a>
   - <a href=https://lichess.org/kPS2hXrY>**Highest Rated Win**: 2066.0</a>
@@ -55,6 +56,10 @@ Once the threat is posed, I convert to my normal play strength (~1700-1800 bulle
 - **Opponent Rating vs. My Rating**
 
 ![RatingJourney](https://user-images.githubusercontent.com/84434778/169716949-64eb0d7c-e372-434f-9d42-291a46352c67.png)
+
+- **My Rating vs. Game**
+
+![Elo Rating vs Time](https://user-images.githubusercontent.com/84434778/169717417-a1bc7c7e-895e-4f9a-ae6a-df36c7c018d5.png)
 
 - **Cumulative WLD (+1,-1,+0.5)**
 
