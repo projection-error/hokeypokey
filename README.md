@@ -37,10 +37,10 @@ Once a threat is posed, the strategy is abandoned. Against engines/good players,
   - **Result**: None yet (73 of 300)
   - **Last Updated**: 05/25/22
 - **Prediction 2**: Highest rated opponent defeated within first 300 games: 1500
-  - **Result**: 2389 (73 of 300)
+  - **Result**: 2066.0 (73 of 300)
   - **Last Updated**: 05/25/22
 - **Prediction 3**: Lowest rated opponent loss within first 300 games: 900
-  - **Result**: 1011 (73 of 300)
+  - **Result**: 1018.0 (73 of 300)
   - **Last Updated**: 05/25/22
 - **Prediction 4**: A deterministic loss sequence exists.
   - **Result**: None encountered yet.
@@ -59,21 +59,25 @@ Once a threat is posed, the strategy is abandoned. Against engines/good players,
 
 - **Opponent Rating vs. My Rating**
 
-![Opponent Rating vs  HokeyPokeyHero Rating](https://user-images.githubusercontent.com/84434778/170409764-4f0ccdb2-0a3d-478e-8f87-449c8bbd9ffd.png)
-
+![Opponent Rating vs  HokeyPokeyHero Rating](https://user-images.githubusercontent.com/84434778/170411664-4f984a48-a4e7-45a2-b809-d736f3820c94.png)
 
 - **My Rating vs. Game**
+ 
 ![Elo Rating vs  Game](https://user-images.githubusercontent.com/84434778/170409818-37cd70d7-ed18-4b8c-8174-aa926faa6493.png)
 
 
 - **Cumulative WLD (+1,-1,+0.5)**
+- 
 ![W+D-L vs  Game #](https://user-images.githubusercontent.com/84434778/170409827-56a53f2c-ac0d-43bb-ad01-e879fb4ac9bd.png)
 
 
 
 - **Relations with No Correlation**
+
 ![Opponent Elo vs  Game Length](https://user-images.githubusercontent.com/84434778/170409797-af5275cf-117e-4fc3-bfad-92cb52cfa281.png)
+
 ![Pokes vs  Game Length](https://user-images.githubusercontent.com/84434778/170409841-e3e548fa-1f9c-47c4-9cae-691adadfcb18.png)
+
 ![Pokes vs  Opponent Elo Rating](https://user-images.githubusercontent.com/84434778/170409852-fcb1d121-5d60-4124-9b8b-3dc49afc5324.png)
 
 
