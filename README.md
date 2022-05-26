@@ -59,7 +59,8 @@ Once a threat is posed, the strategy is abandoned. Against engines/good players,
 
 - **Opponent Rating vs. My Rating**
 
-![Opponent Rating vs  HokeyPokeyHero Rating](https://user-images.githubusercontent.com/84434778/170411664-4f984a48-a4e7-45a2-b809-d736f3820c94.png)
+![Opponent Rating vs  HokeyPokeyHero Rating](https://user-images.githubusercontent.com/84434778/170413951-5cd88028-070d-40a2-9917-52d8d8abdb92.png)
+
 
 - **My Rating vs. Game**
  
