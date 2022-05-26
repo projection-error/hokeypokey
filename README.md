@@ -34,50 +34,53 @@ Once a threat is posed, the strategy is abandoned. Against engines/good players,
 
 # Predictions
 - **Prediction 1**: Games until an opponent counter-Hokey-Pokies into a draw: Within first 300 games.
-  - **Result**: None yet (51 of 300)
-  - **Last Updated**: 05/21/22
+  - **Result**: None yet (73 of 300)
+  - **Last Updated**: 05/25/22
 - **Prediction 2**: Highest rated opponent defeated within first 300 games: 1500
-  - **Result**: 2066 (51 of 300)
-  - **Last Updated**: 05/21/22
+  - **Result**: 2389 (73 of 300)
+  - **Last Updated**: 05/25/22
 - **Prediction 3**: Lowest rated opponent loss within first 300 games: 900
-  - **Result**: 1018 (51 of 300)
-  - **Last Updated**: 05/21/22
+  - **Result**: 1011 (73 of 300)
+  - **Last Updated**: 05/25/22
 - **Prediction 4**: A deterministic loss sequence exists.
   - **Result**: None encountered yet.
-  - **Last Updated**: 05/21/22
+  - **Last Updated**: 05/25/22
 
 
 # Progress
-- **Records** (Last Update: 05/22/22)
-  - **Max Rating**: 1514 (51 games)
-  - **Min Rating**: 1040 (51 games)
-  - <a target="_blank" href=https://lichess.org/a3NNJvc3>**Max Poke Record (Resulting in a Win)**: 18</a>
-  - <a target="_blank" href=https://lichess.org/uJ4TD3r4>**Shortest Game**: 0 (Win)</a>
-  - <a target="_blank" href=https://lichess.org/RaDCMY6C>**Longest Game**: 131 (Win)</a>
-  - <a target="_blank" href=https://lichess.org/kPS2hXrY>**Highest Rated Win**: 2066.0</a>
-  - <a target="_blank" href=https://lichess.org/GP0UDQnc>**Lowest Rated Loss**: 1018.0</a>
+- **Records** (Last Update: 05/25/22)
+  - **Max Rating**: 1514 (73 games)
+  - **Min Rating**: 1040 (73 games)
+  - <a href=https://lichess.org/bLfpBhEo>**Max Poke Record**: 23</a>
+  - <a href=https://lichess.org/uJ4TD3r4>**Shortest Game**: 0 (Win)</a>
+  - <a href=https://lichess.org/eRlwkk4h>**Longest Game**: 132 (Loss)</a>
+  - <a href=https://lichess.org/kPS2hXrY>**Highest Rated Win**: 2066.0</a>
+  - <a href=https://lichess.org/GP0UDQnc>**Lowest Rated Loss**: 1018.0</a>
 
 - **Opponent Rating vs. My Rating**
 
-![RatingJourney](https://user-images.githubusercontent.com/84434778/169716949-64eb0d7c-e372-434f-9d42-291a46352c67.png)
+![Opponent Rating vs  HokeyPokeyHero Rating](https://user-images.githubusercontent.com/84434778/170409764-4f0ccdb2-0a3d-478e-8f87-449c8bbd9ffd.png)
+
 
 - **My Rating vs. Game**
+![Elo Rating vs  Game](https://user-images.githubusercontent.com/84434778/170409818-37cd70d7-ed18-4b8c-8174-aa926faa6493.png)
 
-![Elo Rating vs Time](https://user-images.githubusercontent.com/84434778/169717417-a1bc7c7e-895e-4f9a-ae6a-df36c7c018d5.png)
 
 - **Cumulative WLD (+1,-1,+0.5)**
+![W+D-L vs  Game #](https://user-images.githubusercontent.com/84434778/170409827-56a53f2c-ac0d-43bb-ad01-e879fb4ac9bd.png)
 
-![WLD](https://user-images.githubusercontent.com/84434778/169716952-8f3b0c3b-d173-4678-a8e0-40549ac36cdf.png)
+
 
 - **Relations with No Correlation**
+![Opponent Elo vs  Game Length](https://user-images.githubusercontent.com/84434778/170409797-af5275cf-117e-4fc3-bfad-92cb52cfa281.png)
+![Pokes vs  Game Length](https://user-images.githubusercontent.com/84434778/170409841-e3e548fa-1f9c-47c4-9cae-691adadfcb18.png)
+![Pokes vs  Opponent Elo Rating](https://user-images.githubusercontent.com/84434778/170409852-fcb1d121-5d60-4124-9b8b-3dc49afc5324.png)
 
-![ElovGameLength](https://user-images.githubusercontent.com/84434778/169716968-b84ddcec-58ce-43b6-af2f-f89a0880fd5a.png)
-![PokesvsElo](https://user-images.githubusercontent.com/84434778/169716975-71979702-1142-4811-818d-a22e22ee54a4.png)
-![PokesvsGameLength](https://user-images.githubusercontent.com/84434778/169716976-3f664fb1-2c3b-44da-9dd5-78c382ae5b6f.png)
 
 - **Poke Distribution**
 
-![PokeDistribution](https://user-images.githubusercontent.com/84434778/169716945-951ebb04-b660-44b7-b129-2fe49a3c5723.png)
+![Poke Distribution](https://user-images.githubusercontent.com/84434778/170409791-821b7db5-df3c-4a20-8767-908eb5348b1d.png)
+
 
 
 # Notes
