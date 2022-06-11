@@ -47,8 +47,7 @@ Once a threat is posed, the strategy is abandoned. Against engines/good players,
 
 
 
-
-- **Records** (Last Update: 06/10/22)
+# Records (Last Update: 06/10/22)
   - **Max Rating**: 1646 (425 games)
   - **Min Rating**: 1040 (425 games)
   - <a href=https://lichess.org/IzSMbpTY>**Max Poke w/ Win Record**: 23</a>
